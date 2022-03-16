@@ -1,0 +1,7 @@
+{
+  "DetailedDebugSim": false,
+  "BetIndex": 0,
+  "HistogramBins": [ 1, 2, 5, 10, 15, 20, 25, 30, 40, 50, 75, 100 ],
+  "TotalRuns": 1000000,
+  "OverrideOutputFileName":  ""
+}

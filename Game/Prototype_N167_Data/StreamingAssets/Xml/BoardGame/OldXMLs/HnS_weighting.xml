@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.8 - 10/18/2021 1:45:12 PM - https://aristocratgaming-my.sharepoint.com/personal/nathan_warms_aristocrat_com/Documents/Francise/NY21-6 BGB/Boardgame Jira/N174 BGB Math Skele.xlsx-->
+<weighttables version="1.00" xmlns="http://aristocrat-inc.com/WeightTable.xsd">
+  <weighttable name="TEIRSELECTION" type="string">
+    <weightentry count="2" value="High" />
+    <weightentry count="5" value="Mid" />
+    <weightentry count="3" value="Low" />
+  </weighttable>
+  <weighttable name="CORValues_Low" type="string">
+    <weightentry count="500" value="0.5" />
+    <weightentry count="200" value="0.75" />
+    <weightentry count="300" value="1" />
+    <weightentry count="25" value="1.25" />
+    <weightentry count="25" value="1.5" />
+    <weightentry count="35" value="1.75" />
+    <weightentry count="30" value="2" />
+    <weightentry count="0" value="2.25" />
+    <weightentry count="0" value="2.5" />
+    <weightentry count="0" value="2.75" />
+    <weightentry count="0" value="3" />
+    <weightentry count="0" value="3.25" />
+    <weightentry count="0" value="3.5" />
+    <weightentry count="0" value="3.75" />
+    <weightentry count="0" value="4" />
+    <weightentry count="0" value="4.25" />
+    <weightentry count="0" value="4.5" />
+    <weightentry count="0" value="4.75" />
+    <weightentry count="0" value="5" />
+  </weighttable>
+  <weighttable name="CORValues_Mid" type="string">
+    <weightentry count="120" value="0.5" />
+    <weightentry count="100" value="0.75" />
+    <weightentry count="150" value="1" />
+    <weightentry count="35" value="1.25" />
+    <weightentry count="35" value="1.5" />
+    <weightentry count="25" value="1.75" />
+    <weightentry count="25" value="2" />
+    <weightentry count="25" value="2.25" />
+    <weightentry count="25" value="2.5" />
+    <weightentry count="5" value="2.75" />
+    <weightentry count="8" value="3" />
+    <weightentry count="0" value="3.25" />
+    <weightentry count="0" value="3.5" />
+    <weightentry count="0" value="3.75" />
+    <weightentry count="0" value="4" />
+    <weightentry count="0" value="4.25" />
+    <weightentry count="0" value="4.5" />
+    <weightentry count="0" value="4.75" />
+    <weightentry count="0" value="5" />
+  </weighttable>
+  <weighttable name="CORValues_High" type="string">
+    <weightentry count="95" value="0.5" />
+    <weightentry count="100" value="0.75" />
+    <weightentry count="140" value="1" />
+    <weightentry count="100" value="1.25" />
+    <weightentry count="100" value="1.5" />
+    <weightentry count="100" value="1.75" />
+    <weightentry count="100" value="2" />
+    <weightentry count="75" value="2.25" />
+    <weightentry count="50" value="2.5" />
+    <weightentry count="75" value="2.75" />
+    <weightentry count="80" value="3" />
+    <weightentry count="50" value="3.25" />
+    <weightentry count="48" value="3.5" />
+    <weightentry count="20" value="3.75" />
+    <weightentry count="20" value="4" />
+    <weightentry count="0" value="4.25" />
+    <weightentry count="0" value="4.5" />
+    <weightentry count="0" value="4.75" />
+    <weightentry count="0" value="5" />
+  </weighttable>
+</weighttables>

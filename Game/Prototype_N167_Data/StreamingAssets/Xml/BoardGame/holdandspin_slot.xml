@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.8 - 2/17/2022 7:34:21 PM - https://aristocratgamingind-my.sharepoint.com/personal/kavya_sabu_aristocrat_com/Documents/N176_MATH_V4_WIP (1).xlsx-->
+<scenedefinition version="1.00" name="holdandspin" reelstripdatafile="holdandspin_reelstrips.xml">
+  <symboldefs>
+    <symboldef id="1" name="COR" />
+    <symboldef id="2" name="Grow" />
+    <symboldef id="3" name="Blank" />
+  </symboldefs>
+  <symbolsubs />
+  <reelstrips numrows="1" betindex="0" lineindex="0">
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_4x5</reelstrip>
+    <reelstrip>Grow_Reels_5x5</reelstrip>
+    <reelstrip>Grow_Reels_6x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+    <reelstrip>Grow_Reels_3x5</reelstrip>
+  </reelstrips>
+  <combos>
+    <combogroup type="anyline">
+      <combo id="5 Blanks" award="0">
+        <symbol name="Blank" repeats="5" />
+      </combo>
+    </combogroup>
+  </combos>
+  <playlines usereelpower="true" />
+</scenedefinition>

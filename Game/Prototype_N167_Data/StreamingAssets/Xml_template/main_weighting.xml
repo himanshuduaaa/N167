@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.6 - 9/16/2020 12:05:34 PM - C:\Users\rhulzing\Perforce\rhulzing_BHULZING-TXL_main_892\Prototype Template Math Model\Combo Sheet\Template Math.xlsx-->
+<weighttables version="1.00" xmlns="http://aristocrat-inc.com/WeightTable.xsd">
+  <weighttable name="Jackpot" type="string">
+    <weightentry count="1000" value="None" />
+    <weightentry count="2" value="Major" />
+    <weightentry count="5" value="Minor" />
+    <weightentry count="10" value="Mini" />
+  </weighttable>
+  <weighttable name="BGReplacementArray" type="string">
+    <weightentry count="10" value="S1S1S1S1S1" />
+    <weightentry count="5" value="S1S1S1S2S1" />
+    <weightentry count="1" value="S1S1S2S1S1" />
+    <weightentry count="1" value="S1S2S1S1S1" />
+    <weightentry count="1" value="S1S1S2S2S1" />
+    <weightentry count="1" value="S1S2S1S2S1" />
+    <weightentry count="1" value="S1S2S2S1S1" />
+    <weightentry count="1" value="S1S2S2S2S1" />
+  </weighttable>
+  <weighttable name="BGReplacementPairs" type="string">
+    <weightentry count="25" value="P1_P1" />
+    <weightentry count="10" value="P1_P2" />
+    <weightentry count="0" value="P1_P3" />
+    <weightentry count="0" value="P1_P4" />
+    <weightentry count="0" value="P1_P5" />
+    <weightentry count="10" value="P2_P1" />
+    <weightentry count="20" value="P2_P2" />
+    <weightentry count="0" value="P2_P3" />
+    <weightentry count="0" value="P2_P4" />
+    <weightentry count="0" value="P2_P5" />
+    <weightentry count="10" value="P3_P1" />
+    <weightentry count="0" value="P3_P2" />
+    <weightentry count="10" value="P3_P3" />
+    <weightentry count="0" value="P3_P4" />
+    <weightentry count="0" value="P3_P5" />
+    <weightentry count="10" value="P4_P1" />
+    <weightentry count="0" value="P4_P2" />
+    <weightentry count="0" value="P4_P3" />
+    <weightentry count="10" value="P4_P4" />
+    <weightentry count="0" value="P4_P5" />
+    <weightentry count="10" value="P5_P1" />
+    <weightentry count="0" value="P5_P2" />
+    <weightentry count="0" value="P5_P3" />
+    <weightentry count="0" value="P5_P4" />
+    <weightentry count="0" value="P5_P5" />
+  </weighttable>
+</weighttables>

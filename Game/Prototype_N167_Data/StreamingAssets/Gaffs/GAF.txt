@@ -1,0 +1,5 @@
+Hold And Spin|0,2,0,0,0,0
+Pic1Win|45,5,91,97,47
+Pic2 Win|6,15,0,0,0
+Free Games - 3 Scatters|25,30,55,0,0
+Pic Win|13,14,39,16,33

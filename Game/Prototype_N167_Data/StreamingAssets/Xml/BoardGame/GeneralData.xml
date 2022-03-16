@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.6 - 6/4/2020 11:12:05 AM - C:\Users\NW102930\Perforce\Nathan.Warms_NWARMS-TXL_2325\SBN03\Math\SBN3 Math Sheet.xls-->
+<scenedefinition version="1.00" name="configData" reelstripdatafile="all">
+  <symboldefs>
+     <symboldef id="a" name="PIC1" />
+    <symboldef id="b" name="PIC2" />
+    <symboldef id="c" name="PIC3" />
+    <symboldef id="d" name="PIC4" />
+    <symboldef id="e" name="PIC5" />
+    <symboldef id="f" name="ACE" />
+    <symboldef id="g" name="KING" />
+    <symboldef id="h" name="QUEEN" />
+    <symboldef id="i" name="JACK" />
+    <symboldef id="s" name="SCAT" anticipation="true" />
+    <symboldef id="w" name="WILD" />
+	    <symboldef id="C" name="WYSIWYG" />
+		<symboldef id="B" name="Blank" />
+		<symboldef id="M" name="STACK" />
+  </symboldefs>
+  
+  <wildsymbols>
+  <wild>w</wild>
+  </wildsymbols>
+  
+  <scattersymbols>
+<scat>s</scat>
+  </scattersymbols>
+  
+</scenedefinition>

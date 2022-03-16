@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.6 - 9/16/2020 12:05:34 PM - C:\Users\rhulzing\Perforce\rhulzing_BHULZING-TXL_main_892\Prototype Template Math Model\Combo Sheet\Template Math.xlsx-->
+<scenedefinition version="1.00" name="main" reelstripdatafile="main_reelstrips.xml">
+  <symboldefs>
+    <symboldef id="1" name="P1" />
+    <symboldef id="2" name="P2" />
+    <symboldef id="3" name="P3" />
+    <symboldef id="4" name="P4" />
+    <symboldef id="5" name="P5" />
+    <symboldef id="6" name="A" />
+    <symboldef id="7" name="K" />
+    <symboldef id="8" name="Q" />
+    <symboldef id="9" name="J" />
+    <symboldef id="10" name="T" />
+    <symboldef id="11" name="STACK" />
+    <symboldef id="12" name="W" />
+    <symboldef id="13" name="SCAT" anticipation="true" />
+  </symboldefs>
+  <symbolsubs>
+    <symbolsub name="W" targetname="P1" />
+    <symbolsub name="W" targetname="P2" />
+    <symbolsub name="W" targetname="P3" />
+    <symbolsub name="W" targetname="P4" />
+    <symbolsub name="W" targetname="P5" />
+    <symbolsub name="W" targetname="A" />
+    <symbolsub name="W" targetname="K" />
+    <symbolsub name="W" targetname="Q" />
+    <symbolsub name="W" targetname="J" />
+    <symbolsub name="W" targetname="T" />
+  </symbolsubs>
+  <reelstrips numrows="3" betindex="0,1,2" lineindex="0">
+    <reelstrip>Base Reels_Reel 1</reelstrip>
+    <reelstrip>Base Reels_Reel 2</reelstrip>
+    <reelstrip>Base Reels_Reel 3</reelstrip>
+    <reelstrip>Base Reels_Reel 4</reelstrip>
+    <reelstrip>Base Reels_Reel 5</reelstrip>
+  </reelstrips>
+  <combos>
+    <combogroup type="line">
+      <combo id="5 P1s" award="300">
+        <symbol name="P1" repeats="5" />
+      </combo>
+      <combo id="4 P1s" award="150">
+        <symbol name="P1" repeats="4" />
+      </combo>
+      <combo id="3 P1s" award="75">
+        <symbol name="P1" repeats="3" />
+      </combo>
+      <combo id="5 P2s" award="200">
+        <symbol name="P2" repeats="5" />
+      </combo>
+      <combo id="4 P2s" award="100">
+        <symbol name="P2" repeats="4" />
+      </combo>
+      <combo id="3 P2s" award="50">
+        <symbol name="P2" repeats="3" />
+      </combo>
+      <combo id="5 P3s" award="200">
+        <symbol name="P3" repeats="5" />
+      </combo>
+      <combo id="4 P3s" award="100">
+        <symbol name="P3" repeats="4" />
+      </combo>
+      <combo id="3 P3s" award="50">
+        <symbol name="P3" repeats="3" />
+      </combo>
+      <combo id="5 P4s" award="150">
+        <symbol name="P4" repeats="5" />
+      </combo>
+      <combo id="4 P4s" award="75">
+        <symbol name="P4" repeats="4" />
+      </combo>
+      <combo id="3 P4s" award="40">
+        <symbol name="P4" repeats="3" />
+      </combo>
+      <combo id="5 P5s" award="150">
+        <symbol name="P5" repeats="5" />
+      </combo>
+      <combo id="4 P5s" award="75">
+        <symbol name="P5" repeats="4" />
+      </combo>
+      <combo id="3 P5s" award="40">
+        <symbol name="P5" repeats="3" />
+      </combo>
+      <combo id="5 As" award="100">
+        <symbol name="A" repeats="5" />
+      </combo>
+      <combo id="4 As" award="50">
+        <symbol name="A" repeats="4" />
+      </combo>
+      <combo id="3 As" award="10">
+        <symbol name="A" repeats="3" />
+      </combo>
+      <combo id="5 Ks" award="75">
+        <symbol name="K" repeats="5" />
+      </combo>
+      <combo id="4 Ks" award="50">
+        <symbol name="K" repeats="4" />
+      </combo>
+      <combo id="3 Ks" award="10">
+        <symbol name="K" repeats="3" />
+      </combo>
+      <combo id="5 Qs" award="75">
+        <symbol name="Q" repeats="5" />
+      </combo>
+      <combo id="4 Qs" award="50">
+        <symbol name="Q" repeats="4" />
+      </combo>
+      <combo id="3 Qs" award="10">
+        <symbol name="Q" repeats="3" />
+      </combo>
+      <combo id="5 Js" award="50">
+        <symbol name="J" repeats="5" />
+      </combo>
+      <combo id="4 Js" award="30">
+        <symbol name="J" repeats="4" />
+      </combo>
+      <combo id="3 Js" award="10">
+        <symbol name="J" repeats="3" />
+      </combo>
+      <combo id="5 Ts" award="50">
+        <symbol name="T" repeats="5" />
+      </combo>
+      <combo id="4 Ts" award="30">
+        <symbol name="T" repeats="4" />
+      </combo>
+      <combo id="3 Ts" award="10">
+        <symbol name="T" repeats="3" />
+      </combo>
+    </combogroup>
+    <combogroup type="scatter" subtype="any">
+      <combo id="5 SCATs" award="300" feature="freegames=20" multiplywin="true">
+        <symbol name="SCAT" repeats="5" />
+      </combo>
+      <combo id="4 SCATs" award="100" feature="freegames=20" multiplywin="true">
+        <symbol name="SCAT" repeats="4" />
+      </combo>
+      <combo id="3 SCATs" award="75" feature="freegames=20" multiplywin="true">
+        <symbol name="SCAT" repeats="3" />
+      </combo>
+    </combogroup>
+  </combos>
+  <playlines usereelpower="false">
+    <playline>0, 0, 0, 0, 0</playline>
+    <playline>-1, -1, -1, -1, -1</playline>
+    <playline>1, 1, 1, 1, 1</playline>
+    <playline>-1, 0, 1, 0, -1</playline>
+    <playline>1, 0, -1, 0, 1</playline>
+    <playline>-1, -1, 0, -1, -1</playline>
+    <playline>1, 1, 0, 1, 1</playline>
+    <playline>0, 1, 1, 1, 0</playline>
+    <playline>0, -1, -1, -1, 0</playline>
+    <playline>-1, 0, 0, 0, -1</playline>
+    <playline>1, 0, 0, 0, 1</playline>
+    <playline>-1, 0, -1, 0, -1</playline>
+    <playline>1, 0, 1, 0, 1</playline>
+    <playline>0, -1, 0, -1, 0</playline>
+    <playline>0, 1, 0, 1, 0</playline>
+    <playline>0, 0, -1, 0, 0</playline>
+    <playline>0, 0, 1, 0, 0</playline>
+    <playline>-1, 1, -1, 1, -1</playline>
+    <playline>1, -1, 1, -1, 1</playline>
+    <playline>0, -1, 1, -1, 0</playline>
+    <playline>0, 1, -1, 1, 0</playline>
+    <playline>-1, -1, 1, -1, -1</playline>
+    <playline>1, 1, -1, 1, 1</playline>
+    <playline>-1, 1, 1, 1, -1</playline>
+    <playline>1, -1, -1, -1, 1</playline>
+    <playline>-1, 1, 0, 1, -1</playline>
+    <playline>1, -1, 0, -1, 1</playline>
+    <playline>-1, -1, -1, 0, -1</playline>
+    <playline>1, 1, 1, 0, 1</playline>
+    <playline>0, 0, 0, 1, 0</playline>
+  </playlines>
+</scenedefinition>

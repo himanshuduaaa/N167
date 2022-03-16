@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.8 - 10/18/2021 1:45:11 PM - https://aristocratgaming-my.sharepoint.com/personal/nathan_warms_aristocrat_com/Documents/Francise/NY21-6 BGB/Boardgame Jira/N174 BGB Math Skele.xlsx-->
+<weighttables version="1.00" xmlns="http://aristocrat-inc.com/WeightTable.xsd">
+  <weighttable name="BoardLongTermPersistance" type="string">
+    <weightentry count="5" value="Medium Credits" />
+    <weightentry count="10" value="High Credits" />
+    <weightentry count="15" value="Community Boost" />
+    <weightentry count="20" value="Low Credits" />
+    <weightentry count="25" value="Avatar Entry Message" />
+    <weightentry count="30" value="Pickem" />
+    <weightentry count="35" value="High Credits" />
+    <weightentry count="40" value="Low Credits" />
+    <weightentry count="45" value="Medium Credits" />
+    <weightentry count="50" value="Bronze" />
+    <weightentry count="55" value="Pickem" />
+    <weightentry count="60" value="High Credits" />
+    <weightentry count="65" value="Community Boost" />
+    <weightentry count="70" value="Low Credits" />
+    <weightentry count="75" value="Pickem" />
+    <weightentry count="80" value="Medium Credits" />
+    <weightentry count="85" value="Community Boost" />
+    <weightentry count="90" value="High Credits" />
+    <weightentry count="95" value="Medium Credits" />
+    <weightentry count="100" value="Silver" />
+    <weightentry count="105" value="Pickem" />
+    <weightentry count="110" value="High Credits" />
+    <weightentry count="115" value="Community Boost" />
+    <weightentry count="120" value="Low Credits" />
+    <weightentry count="125" value="Pickem" />
+    <weightentry count="130" value="Medium Credits" />
+    <weightentry count="135" value="Community Boost" />
+    <weightentry count="140" value="High Credits" />
+    <weightentry count="145" value="Medium Credits" />
+    <weightentry count="150" value="Gold" />
+    <weightentry count="155" value="Pickem" />
+    <weightentry count="160" value="High Credits" />
+    <weightentry count="165" value="Community Boost" />
+    <weightentry count="170" value="Low Credits" />
+    <weightentry count="175" value="Pickem" />
+    <weightentry count="180" value="Medium Credits" />
+    <weightentry count="185" value="Community Boost" />
+    <weightentry count="190" value="High Credits" />
+    <weightentry count="195" value="Medium Credits" />
+    <weightentry count="200" value="Diamond" />
+    <weightentry count="205" value="Pickem" />
+    <weightentry count="210" value="High Credits" />
+    <weightentry count="215" value="Community Boost" />
+    <weightentry count="220" value="Low Credits" />
+    <weightentry count="225" value="Pickem" />
+    <weightentry count="230" value="Medium Credits" />
+    <weightentry count="235" value="Community Boost" />
+    <weightentry count="240" value="High Credits" />
+    <weightentry count="245" value="Medium Credits" />
+    <weightentry count="250" value="Avatar Boarder" />
+    <weightentry count="255" value="Pickem" />
+    <weightentry count="260" value="High Credits" />
+    <weightentry count="265" value="Community Boost" />
+    <weightentry count="270" value="Low Credits" />
+    <weightentry count="275" value="Pickem" />
+    <weightentry count="280" value="Medium Credits" />
+    <weightentry count="285" value="Community Boost" />
+    <weightentry count="290" value="High Credits" />
+    <weightentry count="295" value="Medium Credits" />
+    <weightentry count="300" value="Avatar Trophy" />
+    <weightentry count="305" value="Pickem" />
+    <weightentry count="310" value="High Credits" />
+    <weightentry count="315" value="Community Boost" />
+    <weightentry count="320" value="Low Credits" />
+    <weightentry count="325" value="Pickem" />
+    <weightentry count="330" value="Medium Credits" />
+    <weightentry count="335" value="Community Boost" />
+    <weightentry count="340" value="High Credits" />
+    <weightentry count="345" value="Medium Credits" />
+    <weightentry count="350" value="Pickem" />
+    <weightentry count="355" value="High Credits" />
+    <weightentry count="360" value="Community Boost" />
+    <weightentry count="365" value="Low Credits" />
+    <weightentry count="370" value="Pickem" />
+    <weightentry count="375" value="Medium Credits" />
+    <weightentry count="380" value="Community Boost" />
+    <weightentry count="385" value="High Credits" />
+    <weightentry count="390" value="Medium Credits" />
+    <weightentry count="395" value="Pickem" />
+    <weightentry count="400" value="High Credits" />
+    <weightentry count="405" value="Community Boost" />
+    <weightentry count="410" value="Low Credits" />
+    <weightentry count="415" value="Pickem" />
+    <weightentry count="420" value="Medium Credits" />
+    <weightentry count="425" value="Community Boost" />
+    <weightentry count="430" value="High Credits" />
+    <weightentry count="435" value="Medium Credits" />
+  </weighttable>
+  <weighttable name="BGLTP_LowCredits" type="string">
+    <weightentry count="8" value="3" />
+    <weightentry count="7" value="4" />
+    <weightentry count="6" value="5" />
+    <weightentry count="5" value="6" />
+    <weightentry count="4" value="7" />
+    <weightentry count="3" value="8" />
+    <weightentry count="2" value="9" />
+    <weightentry count="1" value="10" />
+  </weighttable>
+  <weighttable name="BGLTP_MediumCredits" type="string">
+    <weightentry count="10" value="5" />
+    <weightentry count="9" value="6" />
+    <weightentry count="8" value="7" />
+    <weightentry count="7" value="8" />
+    <weightentry count="6" value="9" />
+    <weightentry count="5" value="10" />
+    <weightentry count="4" value="11" />
+    <weightentry count="3" value="12" />
+    <weightentry count="2" value="14" />
+    <weightentry count="1" value="15" />
+  </weighttable>
+  <weighttable name="BGLTP_HighCredits" type="string">
+    <weightentry count="12" value="8" />
+    <weightentry count="11" value="9" />
+    <weightentry count="10" value="10" />
+    <weightentry count="9" value="11" />
+    <weightentry count="8" value="12" />
+    <weightentry count="7" value="14" />
+    <weightentry count="6" value="15" />
+    <weightentry count="5" value="16" />
+    <weightentry count="4" value="17" />
+    <weightentry count="3" value="18" />
+    <weightentry count="2" value="19" />
+    <weightentry count="1" value="20" />
+  </weighttable>
+  <weighttable name="BGLTP_Pickem" type="string">
+    <weightentry count="6" value="5" />
+    <weightentry count="5" value="10" />
+    <weightentry count="4" value="15" />
+    <weightentry count="3" value="20" />
+    <weightentry count="2" value="25" />
+    <weightentry count="1" value="30" />
+  </weighttable>
+  <weighttable name="BGLTP_CommunityBoost" type="string">
+    <weightentry count="3" value="High" />
+    <weightentry count="5" value="Medium" />
+    <weightentry count="2" value="Low" />
+  </weighttable>
+  <weighttable name="BoardExport" type="string">
+    <weightentry count="1" value="ROYAL" />
+    <weightentry count="2" value="CREDITS" />
+    <weightentry count="3" value="MYSTERY" />
+    <weightentry count="4" value="ROYAL" />
+    <weightentry count="5" value="CREDITS" />
+    <weightentry count="6" value="ROYALNUDGE" />
+    <weightentry count="7" value="CREDITS" />
+    <weightentry count="8" value="HOLDANDSPIN" />
+    <weightentry count="9" value="NUDGE" />
+    <weightentry count="10" value="CREDITS" />
+    <weightentry count="11" value="COMMUNITY CHEST" />
+    <weightentry count="12" value="CREDITS" />
+  </weighttable>
+  <weighttable name="CommunityChestPickTeir" type="string">
+    <weightentry count="2" value="High" />
+    <weightentry count="5" value="Medium" />
+    <weightentry count="3" value="Low" />
+  </weighttable>
+  <weighttable name="AIMove" type="string">
+    <weightentry count="1" value="True" />
+    <weightentry count="99" value="False" />
+  </weighttable>
+  <weighttable name="ReelSelection" type="string">
+    <weightentry count="2" value="CHEAP REELS" />
+    <weightentry count="1" value="EXPENSIVE REELS" />
+    <weightentry count="1" value="TRIGGER REELS" />
+  </weighttable>
+  <weighttable name="CommunityChestIncriment" type="string">
+    <weightentry count="2" value="0.01" />
+    <weightentry count="3" value="0.02" />
+    <weightentry count="4" value="0.03" />
+    <weightentry count="5" value="0.04" />
+    <weightentry count="6" value="0.05" />
+    <weightentry count="4" value="0.06" />
+    <weightentry count="3" value="0.07" />
+    <weightentry count="2" value="0.08" />
+    <weightentry count="1" value="0.09" />
+    <weightentry count="2" value="0.1" />
+  </weighttable>
+  <weighttable name="LocationOne" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="5" value="1,2" />
+    <weightentry count="5" value="1,3" />
+    <weightentry count="4" value="2,2" />
+    <weightentry count="5" value="2,3" />
+    <weightentry count="3" value="3,3" />
+  </weighttable>
+  <weighttable name="CreditAwardTable" type="string">
+    <weightentry count="1" value="3" />
+    <weightentry count="2" value="4" />
+    <weightentry count="3" value="5" />
+    <weightentry count="1" value="6" />
+    <weightentry count="1" value="7" />
+    <weightentry count="1" value="8" />
+    <weightentry count="1" value="9" />
+    <weightentry count="1" value="10" />
+  </weighttable>
+  <weighttable name="LocationTwo" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="5" value="1,2" />
+    <weightentry count="5" value="1,3" />
+    <weightentry count="4" value="2,2" />
+    <weightentry count="5" value="2,3" />
+    <weightentry count="3" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationThree" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="5" value="1,2" />
+    <weightentry count="5" value="1,3" />
+    <weightentry count="4" value="2,2" />
+    <weightentry count="5" value="2,3" />
+    <weightentry count="3" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationFour" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="5" value="1,2" />
+    <weightentry count="5" value="1,3" />
+    <weightentry count="4" value="2,2" />
+    <weightentry count="5" value="2,3" />
+    <weightentry count="3" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationFive" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="5" value="1,2" />
+    <weightentry count="5" value="1,3" />
+    <weightentry count="4" value="2,2" />
+    <weightentry count="5" value="2,3" />
+    <weightentry count="3" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationSix" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="5" value="1,2" />
+    <weightentry count="5" value="1,3" />
+    <weightentry count="4" value="2,2" />
+    <weightentry count="5" value="2,3" />
+    <weightentry count="3" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationSeven" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="9" value="1,2" />
+    <weightentry count="3" value="1,3" />
+    <weightentry count="1" value="2,2" />
+    <weightentry count="8" value="2,3" />
+    <weightentry count="1" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationEight" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="6" value="1,2" />
+    <weightentry count="5" value="1,3" />
+    <weightentry count="4" value="2,2" />
+    <weightentry count="6" value="2,3" />
+    <weightentry count="1" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationNine" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="6" value="1,2" />
+    <weightentry count="7" value="1,3" />
+    <weightentry count="1" value="2,2" />
+    <weightentry count="7" value="2,3" />
+    <weightentry count="1" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationTen" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="8" value="1,2" />
+    <weightentry count="6" value="1,3" />
+    <weightentry count="1" value="2,2" />
+    <weightentry count="6" value="2,3" />
+    <weightentry count="1" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationEleven" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="7" value="1,2" />
+    <weightentry count="10" value="1,3" />
+    <weightentry count="2" value="2,2" />
+    <weightentry count="7" value="2,3" />
+    <weightentry count="1" value="3,3" />
+  </weighttable>
+  <weighttable name="LocationTwelve" type="string">
+    <weightentry count="1" value="1,1" />
+    <weightentry count="7" value="1,2" />
+    <weightentry count="7" value="1,3" />
+    <weightentry count="2" value="2,2" />
+    <weightentry count="10" value="2,3" />
+    <weightentry count="1" value="3,3" />
+  </weighttable>
+  <weighttable name="BGLTP_CommunityBoost_Values_High" type="string">
+    <weightentry count="6" value="3" />
+    <weightentry count="5" value="4" />
+    <weightentry count="4" value="5" />
+    <weightentry count="3" value="6" />
+    <weightentry count="2" value="7" />
+    <weightentry count="1" value="8" />
+    <weightentry count="0" value="9" />
+    <weightentry count="0" value="10" />
+    <weightentry count="0" value="11" />
+    <weightentry count="0" value="12" />
+    <weightentry count="0" value="13" />
+    <weightentry count="0" value="14" />
+    <weightentry count="0" value="15" />
+    <weightentry count="0" value="16" />
+    <weightentry count="0" value="17" />
+    <weightentry count="0" value="18" />
+    <weightentry count="0" value="19" />
+    <weightentry count="0" value="20" />
+  </weighttable>
+  <weighttable name="BGLTP_CommunityBoost_Values_Medium" type="string">
+    <weightentry count="0" value="3" />
+    <weightentry count="0" value="4" />
+    <weightentry count="0" value="5" />
+    <weightentry count="0" value="6" />
+    <weightentry count="0" value="7" />
+    <weightentry count="7" value="8" />
+    <weightentry count="6" value="9" />
+    <weightentry count="5" value="10" />
+    <weightentry count="4" value="11" />
+    <weightentry count="3" value="12" />
+    <weightentry count="2" value="13" />
+    <weightentry count="1" value="14" />
+    <weightentry count="0" value="15" />
+    <weightentry count="0" value="16" />
+    <weightentry count="0" value="17" />
+    <weightentry count="0" value="18" />
+    <weightentry count="0" value="19" />
+    <weightentry count="0" value="20" />
+  </weighttable>
+  <weighttable name="BGLTP_CommunityBoost_Values_Low" type="string">
+    <weightentry count="0" value="3" />
+    <weightentry count="0" value="4" />
+    <weightentry count="0" value="5" />
+    <weightentry count="0" value="6" />
+    <weightentry count="0" value="7" />
+    <weightentry count="0" value="8" />
+    <weightentry count="0" value="9" />
+    <weightentry count="0" value="10" />
+    <weightentry count="0" value="11" />
+    <weightentry count="0" value="12" />
+    <weightentry count="0" value="13" />
+    <weightentry count="7" value="14" />
+    <weightentry count="6" value="15" />
+    <weightentry count="5" value="16" />
+    <weightentry count="4" value="17" />
+    <weightentry count="3" value="18" />
+    <weightentry count="2" value="19" />
+    <weightentry count="1" value="20" />
+  </weighttable>
+  <weighttable name="MysterySpaceTable_1x" type="string">
+    <weightentry count="32" value="H+S" />
+    <weightentry count="25" value="ROYAL" />
+    <weightentry count="25" value="NUDGE" />
+    <weightentry count="12" value="ROYALNUDGE" />
+    <weightentry count="5" value="CREDITS" />
+    <weightentry count="1" value="JACKPOT" />
+  </weighttable>
+  <weighttable name="MysterySpaceTable_2x" type="string">
+    <weightentry count="32" value="H+S" />
+    <weightentry count="25" value="ROYAL" />
+    <weightentry count="25" value="NUDGE" />
+    <weightentry count="12" value="ROYALNUDGE" />
+    <weightentry count="5" value="CREDITS" />
+    <weightentry count="1" value="JACKPOT" />
+  </weighttable>
+  <weighttable name="MysterySpaceTable_3x" type="string">
+    <weightentry count="29" value="H+S" />
+    <weightentry count="25" value="ROYAL" />
+    <weightentry count="25" value="NUDGE" />
+    <weightentry count="10" value="ROYALNUDGE" />
+    <weightentry count="10" value="CREDITS" />
+    <weightentry count="1" value="JACKPOT" />
+  </weighttable>
+  <weighttable name="MysterySpaceTable_4x" type="string">
+    <weightentry count="20" value="H+S" />
+    <weightentry count="20" value="ROYAL" />
+    <weightentry count="20" value="NUDGE" />
+    <weightentry count="9" value="ROYALNUDGE" />
+    <weightentry count="30" value="CREDITS" />
+    <weightentry count="1" value="JACKPOT" />
+  </weighttable>
+  <weighttable name="MysterySpaceTable_5x" type="string">
+    <weightentry count="14" value="H+S" />
+    <weightentry count="15" value="ROYAL" />
+    <weightentry count="15" value="NUDGE" />
+    <weightentry count="5" value="ROYALNUDGE" />
+    <weightentry count="50" value="CREDITS" />
+    <weightentry count="1" value="JACKPOT" />
+  </weighttable>
+  <weighttable name="MysterySpaceTable_6x" type="string">
+    <weightentry count="9" value="H+S" />
+    <weightentry count="5" value="ROYAL" />
+    <weightentry count="10" value="NUDGE" />
+    <weightentry count="5" value="ROYALNUDGE" />
+    <weightentry count="70" value="CREDITS" />
+    <weightentry count="1" value="JACKPOT" />
+  </weighttable>
+  <weighttable name="MysterySpaceTable_10x" type="string">
+    <weightentry count="1" value="H+S" />
+    <weightentry count="3" value="ROYAL" />
+    <weightentry count="3" value="NUDGE" />
+    <weightentry count="2" value="ROYALNUDGE" />
+    <weightentry count="90" value="CREDITS" />
+    <weightentry count="1" value="JACKPOT" />
+  </weighttable>
+  <weighttable name="CommunityChestValues_Low" type="string">
+    <weightentry count="6" value="10" />
+    <weightentry count="5" value="12" />
+    <weightentry count="4" value="14" />
+    <weightentry count="3" value="15" />
+    <weightentry count="2" value="16" />
+    <weightentry count="1" value="18" />
+    <weightentry count="1" value="20" />
+    <weightentry count="0" value="25" />
+    <weightentry count="0" value="30" />
+    <weightentry count="0" value="35" />
+    <weightentry count="0" value="40" />
+    <weightentry count="0" value="50" />
+    <weightentry count="0" value="60" />
+  </weighttable>
+  <weighttable name="CommunityChestValues_Medium" type="string">
+    <weightentry count="0" value="10" />
+    <weightentry count="0" value="12" />
+    <weightentry count="0" value="14" />
+    <weightentry count="5" value="15" />
+    <weightentry count="4" value="16" />
+    <weightentry count="3" value="18" />
+    <weightentry count="3" value="20" />
+    <weightentry count="2" value="25" />
+    <weightentry count="2" value="30" />
+    <weightentry count="1" value="35" />
+    <weightentry count="0" value="40" />
+    <weightentry count="0" value="50" />
+    <weightentry count="0" value="60" />
+  </weighttable>
+  <weighttable name="CommunityChestValues_High" type="string">
+    <weightentry count="0" value="10" />
+    <weightentry count="0" value="12" />
+    <weightentry count="0" value="14" />
+    <weightentry count="0" value="15" />
+    <weightentry count="0" value="16" />
+    <weightentry count="0" value="18" />
+    <weightentry count="5" value="20" />
+    <weightentry count="5" value="25" />
+    <weightentry count="4" value="30" />
+    <weightentry count="4" value="35" />
+    <weightentry count="2" value="40" />
+    <weightentry count="1" value="50" />
+    <weightentry count="1" value="60" />
+  </weighttable>
+</weighttables>

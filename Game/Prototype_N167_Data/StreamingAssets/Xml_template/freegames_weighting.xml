@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.6 - 9/16/2020 12:05:34 PM - C:\Users\rhulzing\Perforce\rhulzing_BHULZING-TXL_main_892\Prototype Template Math Model\Combo Sheet\Template Math.xlsx-->
+<weighttables version="1.00" xmlns="http://aristocrat-inc.com/WeightTable.xsd">
+  <weighttable name="FG_Stack" type="string">
+    <weightentry count="1" value="P1" />
+    <weightentry count="1" value="P2" />
+    <weightentry count="1" value="P3" />
+    <weightentry count="1" value="P4" />
+    <weightentry count="1" value="P5" />
+    <weightentry count="1" value="A" />
+    <weightentry count="1" value="K" />
+    <weightentry count="1" value="Q" />
+    <weightentry count="1" value="J" />
+    <weightentry count="1" value="T" />
+  </weighttable>
+</weighttables>

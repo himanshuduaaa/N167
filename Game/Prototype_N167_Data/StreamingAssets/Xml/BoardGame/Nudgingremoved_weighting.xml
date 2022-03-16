@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.8 - 2/17/2022 7:53:28 PM - https://aristocratgamingind-my.sharepoint.com/personal/kavya_sabu_aristocrat_com/Documents/N167_BGB_Math_DRAFT#1.xlsx-->
+<weighttables version="1.00" xmlns="http://aristocrat-inc.com/WeightTable.xsd">
+  <weighttable name="SymbolSubstitution" type="string">
+    <weightentry count="3" value="PIC1_PIC1_PIC1_PIC1_PIC1" />
+    <weightentry count="2" value="PIC2_PIC2_PIC2_PIC2_PIC2" />
+    <weightentry count="1" value="PIC3_PIC3_PIC3_PIC3_PIC3" />
+    <weightentry count="1" value="PIC4_PIC4_PIC4_PIC4_PIC4" />
+    <weightentry count="1" value="PIC5_PIC5_PIC5_PIC5_PIC5" />
+    <weightentry count="3" value="WILD_PIC1_WILD_PIC1_WILD" />
+    <weightentry count="2" value="WILD_PIC2_WILD_PIC2_WILD" />
+    <weightentry count="2" value="WILD_PIC3_WILD_PIC3_WILD" />
+    <weightentry count="1" value="WILD_PIC4_WILD_PIC4_WILD" />
+    <weightentry count="1" value="WILD_PIC5_WILD_PIC5_WILD" />
+  </weighttable>
+</weighttables>

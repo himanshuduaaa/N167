@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.8 - 10/18/2021 1:45:11 PM - https://aristocratgaming-my.sharepoint.com/personal/nathan_warms_aristocrat_com/Documents/Francise/NY21-6 BGB/Boardgame Jira/N174 BGB Math Skele.xlsx-->
+<weighttables version="1.00" xmlns="http://aristocrat-inc.com/WeightTable.xsd">
+  <weighttable name="SymbolReplacement" type="string">
+    <weightentry count="4" value="PIC1_PIC1_PIC1_PIC1_PIC1" />
+    <weightentry count="2" value="PIC2_PIC2_PIC2_PIC2_PIC2" />
+    <weightentry count="2" value="PIC3_PIC3_PIC3_PIC3_PIC3" />
+    <weightentry count="1" value="PIC4_PIC4_PIC4_PIC4_PIC4" />
+    <weightentry count="1" value="PIC5_PIC5_PIC5_PIC5_PIC5" />
+    <weightentry count="3" value="WILD_PIC1_WILD_PIC1_WILD" />
+    <weightentry count="2" value="WILD_PIC2_WILD_PIC2_WILD" />
+    <weightentry count="2" value="WILD_PIC3_WILD_PIC3_WILD" />
+    <weightentry count="1" value="WILD_PIC4_WILD_PIC4_WILD" />
+    <weightentry count="1" value="WILD_PIC5_WILD_PIC5_WILD" />
+  </weighttable>
+</weighttables>

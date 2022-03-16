@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.8 - 2/17/2022 7:34:21 PM - https://aristocratgamingind-my.sharepoint.com/personal/kavya_sabu_aristocrat_com/Documents/N176_MATH_V4_WIP (1).xlsx-->
+<weighttables version="1.00" xmlns="http://aristocrat-inc.com/WeightTable.xsd">
+  <weighttable name="SS_Spins" type="int">
+    <weightentry count="1" value="3" />
+  </weighttable>
+  <weighttable name="SS_COR_Start" type="int">
+    <weightentry count="1" value="6" />
+    <weightentry count="1" value="7" />
+    <weightentry count="1" value="8" />
+    <weightentry count="1" value="9" />
+  </weighttable>
+  <weighttable name="SS_Upgrade" type="int">
+    <weightentry count="1" value="0" />
+    <weightentry count="1" value="2" />
+    <weightentry count="1" value="3" />
+    <weightentry count="1" value="4" />
+    <weightentry count="1" value="5" />
+    <weightentry count="1" value="6" />
+    <weightentry count="1" value="7" />
+    <weightentry count="1" value="8" />
+  </weighttable>
+  <weighttable name="SS_Upgrade_Fraction" type="string">
+    <weightentry count="1" value="1.25" />
+    <weightentry count="1" value="1.5" />
+    <weightentry count="1" value="2" />
+  </weighttable>
+  <weighttable name="SS_COR_Weights" type="string">
+    <weightentry count="440" value="1" />
+    <weightentry count="420" value="1.2" />
+    <weightentry count="400" value="1.5" />
+    <weightentry count="380" value="1.8" />
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+  <weighttable name="HS_GROW_num_of_rows_3x5" type="string">
+    <weightentry count="1000" value="1" />
+    <weightentry count="100" value="2" />
+    <weightentry count="10" value="3" />
+  </weighttable>
+  <weighttable name="HS_GROW_num_of_rows_4x5" type="string">
+    <weightentry count="1000" value="1" />
+    <weightentry count="10" value="2" />
+    <weightentry count="1" value="3" />
+  </weighttable>
+  <weighttable name="HS_GROW_num_of_rows_5x5" type="string">
+    <weightentry count="1000" value="1" />
+    <weightentry count="1" value="2" />
+    <weightentry count="0" value="3" />
+  </weighttable>
+  <weighttable name="HS_GROW_num_of_rows_6x5" type="string">
+    <weightentry count="1" value="1" />
+    <weightentry count="0" value="2" />
+    <weightentry count="0" value="3" />
+  </weighttable>
+  <weighttable name="COR_Weights_3x5" type="string">
+    <weightentry count="500" value="0.25" />
+    <weightentry count="480" value="0.5" />
+    <weightentry count="460" value="0.8" />
+    <weightentry count="440" value="1" />
+    <weightentry count="420" value="1.2" />
+    <weightentry count="400" value="1.5" />
+    <weightentry count="380" value="1.8" />
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+  <weighttable name="COR_Weights_4x5" type="string">
+    <weightentry count="500" value="0.25" />
+    <weightentry count="480" value="0.5" />
+    <weightentry count="460" value="0.8" />
+    <weightentry count="440" value="1" />
+    <weightentry count="420" value="1.2" />
+    <weightentry count="400" value="1.5" />
+    <weightentry count="380" value="1.8" />
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+  <weighttable name="COR_Weights_5x5" type="string">
+    <weightentry count="500" value="0.25" />
+    <weightentry count="480" value="0.5" />
+    <weightentry count="460" value="0.8" />
+    <weightentry count="440" value="1" />
+    <weightentry count="420" value="1.2" />
+    <weightentry count="400" value="1.5" />
+    <weightentry count="380" value="1.8" />
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+  <weighttable name="COR_Weights_6x5" type="string">
+    <weightentry count="500" value="0.25" />
+    <weightentry count="480" value="0.5" />
+    <weightentry count="460" value="0.8" />
+    <weightentry count="440" value="1" />
+    <weightentry count="420" value="1.2" />
+    <weightentry count="400" value="1.5" />
+    <weightentry count="380" value="1.8" />
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+  <weighttable name="COR_Weights_7x5" type="string">
+    <weightentry count="500" value="0.25" />
+    <weightentry count="480" value="0.5" />
+    <weightentry count="460" value="0.8" />
+    <weightentry count="440" value="1" />
+    <weightentry count="420" value="1.2" />
+    <weightentry count="400" value="1.5" />
+    <weightentry count="380" value="1.8" />
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+  <weighttable name="GROW_COR_Weights_3x5" type="string">
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+  <weighttable name="GROW_COR_Weights_4x5" type="string">
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+  <weighttable name="GROW_COR_Weights_5x5" type="string">
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+  <weighttable name="GROW_COR_Weights_6x5" type="string">
+    <weightentry count="360" value="2" />
+    <weightentry count="340" value="2.2" />
+    <weightentry count="320" value="2.5" />
+    <weightentry count="300" value="3" />
+    <weightentry count="280" value="3.5" />
+    <weightentry count="260" value="4" />
+    <weightentry count="240" value="5" />
+    <weightentry count="220" value="6" />
+    <weightentry count="200" value="7" />
+    <weightentry count="180" value="8" />
+    <weightentry count="160" value="9" />
+    <weightentry count="140" value="10" />
+    <weightentry count="120" value="12" />
+    <weightentry count="100" value="15" />
+    <weightentry count="80" value="20" />
+    <weightentry count="5" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="50" value="Mini" />
+  </weighttable>
+</weighttables>

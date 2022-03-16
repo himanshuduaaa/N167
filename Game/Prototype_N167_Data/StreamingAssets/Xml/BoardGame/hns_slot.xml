@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.8 - 2/17/2022 7:53:29 PM - https://aristocratgamingind-my.sharepoint.com/personal/kavya_sabu_aristocrat_com/Documents/N167_BGB_Math_DRAFT#1.xlsx-->
+<scenedefinition version="1.00" name="HnS" reelstripdatafile="hns_reelstrips.xml">
+  <symboldefs>
+    <symboldef id="1" name="WYSIWYG" />
+    <symboldef id="2" name="Blank" />
+  </symboldefs>
+  <symbolsubs />
+  <reelstrips numrows="1" betindex="0,1,2" lineindex="0">
+    <reelstrip>HoldandSpinReel_2 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_3 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_4 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_5 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_6 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_7 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_8 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_9 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_10 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_11 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_12 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_13 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_14 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_2 BASE</reelstrip>
+    <reelstrip>HoldandSpinReel_2 BASE</reelstrip>
+  </reelstrips>
+  <playlines usereelpower="true" />
+</scenedefinition>

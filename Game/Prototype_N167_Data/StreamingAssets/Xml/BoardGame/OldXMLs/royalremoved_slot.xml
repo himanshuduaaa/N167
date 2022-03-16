@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 1.0.0.8 - 10/18/2021 1:45:11 PM - https://aristocratgaming-my.sharepoint.com/personal/nathan_warms_aristocrat_com/Documents/Francise/NY21-6 BGB/Boardgame Jira/N174 BGB Math Skele.xlsx-->
+<scenedefinition version="1.00" name="RoyalRemoved" reelstripdatafile="royalremoved_reelstrips.xml">
+  <symboldefs>
+    <symboldef id="1" name="PIC1" />
+    <symboldef id="2" name="PIC2" />
+    <symboldef id="3" name="PIC3" />
+    <symboldef id="4" name="PIC4" />
+    <symboldef id="5" name="PIC5" />
+    <symboldef id="6" name="STACK" />
+    <symboldef id="7" name="WILD" />
+  </symboldefs>
+  <symbolsubs>
+    <symbolsub name="WILD" targetname="PIC1" />
+    <symbolsub name="WILD" targetname="PIC2" />
+    <symbolsub name="WILD" targetname="PIC3" />
+    <symbolsub name="WILD" targetname="PIC4" />
+    <symbolsub name="WILD" targetname="PIC5" />
+  </symbolsubs>
+  <reelstrips numrows="3" betindex="0,1,2" lineindex="0">
+    <reelstrip>RoyalRemoved_Reel 1</reelstrip>
+    <reelstrip>RoyalRemoved_Reel 2</reelstrip>
+    <reelstrip>RoyalRemoved_Reel 3</reelstrip>
+    <reelstrip>RoyalRemoved_Reel 4</reelstrip>
+    <reelstrip>RoyalRemoved_Reel 5</reelstrip>
+  </reelstrips>
+  <combos>
+    <combogroup type="line">
+      <combo id="5 PIC1s" award="150">
+        <symbol name="PIC1" repeats="5" />
+      </combo>
+      <combo id="4 PIC1s" award="40">
+        <symbol name="PIC1" repeats="4" />
+      </combo>
+      <combo id="3 PIC1s" award="20">
+        <symbol name="PIC1" repeats="3" />
+      </combo>
+      <combo id="5 PIC2s" award="100">
+        <symbol name="PIC2" repeats="5" />
+      </combo>
+      <combo id="4 PIC2s" award="30">
+        <symbol name="PIC2" repeats="4" />
+      </combo>
+      <combo id="3 PIC2s" award="15">
+        <symbol name="PIC2" repeats="3" />
+      </combo>
+      <combo id="5 PIC3s" award="100">
+        <symbol name="PIC3" repeats="5" />
+      </combo>
+      <combo id="4 PIC3s" award="30">
+        <symbol name="PIC3" repeats="4" />
+      </combo>
+      <combo id="3 PIC3s" award="15">
+        <symbol name="PIC3" repeats="3" />
+      </combo>
+      <combo id="5 PIC4s" award="75">
+        <symbol name="PIC4" repeats="5" />
+      </combo>
+      <combo id="4 PIC4s" award="20">
+        <symbol name="PIC4" repeats="4" />
+      </combo>
+      <combo id="3 PIC4s" award="10">
+        <symbol name="PIC4" repeats="3" />
+      </combo>
+      <combo id="5 PIC5s" award="75">
+        <symbol name="PIC5" repeats="5" />
+      </combo>
+      <combo id="4 PIC5s" award="20">
+        <symbol name="PIC5" repeats="4" />
+      </combo>
+      <combo id="3 PIC5s" award="10">
+        <symbol name="PIC5" repeats="3" />
+      </combo>
+    </combogroup>
+  </combos>
+  <playlines usereelpower="false">
+    <playline>0, 0, 0, 0, 0</playline>
+    <playline>-1, -1, -1, -1, -1</playline>
+    <playline>1, 1, 1, 1, 1</playline>
+    <playline>-1, 0, 1, 0, -1</playline>
+    <playline>1, 0, -1, 0, 1</playline>
+    <playline>-1, -1, 0, -1, -1</playline>
+    <playline>1, 1, 0, 1, 1</playline>
+    <playline>0, 1, 1, 1, 0</playline>
+    <playline>0, -1, -1, -1, 0</playline>
+    <playline>-1, 0, 0, 0, -1</playline>
+    <playline>1, 0, 0, 0, 1</playline>
+    <playline>-1, 0, -1, 0, -1</playline>
+    <playline>1, 0, 1, 0, 1</playline>
+    <playline>0, -1, 0, -1, 0</playline>
+    <playline>0, 1, 0, 1, 0</playline>
+    <playline>0, 0, -1, 0, 0</playline>
+    <playline>0, 0, 1, 0, 0</playline>
+    <playline>-1, 1, -1, 1, -1</playline>
+    <playline>1, -1, 1, -1, 1</playline>
+    <playline>0, -1, 1, -1, 0</playline>
+    <playline>0, 1, -1, 1, 0</playline>
+    <playline>-1, -1, 1, -1, -1</playline>
+    <playline>1, 1, -1, 1, 1</playline>
+    <playline>-1, 1, 1, 1, -1</playline>
+    <playline>1, -1, -1, -1, 1</playline>
+    <playline>-1, 1, 0, 1, -1</playline>
+    <playline>1, -1, 0, -1, 1</playline>
+    <playline>-1, -1, -1, 0, -1</playline>
+    <playline>1, 1, 1, 0, 1</playline>
+    <playline>0, 0, 0, 1, 0</playline>
+  </playlines>
+</scenedefinition>
